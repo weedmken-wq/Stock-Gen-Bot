@@ -3,8 +3,8 @@ require('dotenv').config();
 const config = {
   prefix: '!',
   embedColor: 0x5865f2,
-  footer: 'Developed by UnknownzOp',
-  activity: 'stock',
+  footer: 'Developed by Zwo0',
+  activity: 'Bozo',
   ownerIds: ['1092773378101882951'],
   dmResults: true,
   deleteCommandMessages: false,
