@@ -243,7 +243,7 @@ async function handleGenCommand(target, user, category, source) {
   if (config.dmResults) {
     await sendEmbed(target, createEmbed({
       title: 'Check Your DMs',
-      description: `Your generated item has been sent to your direct messages.`,
+      description: `(Aka : zwo0 Loves to Shot Guns) `,
       icon: '📬',
       color: 0x2ecc71
     }));
