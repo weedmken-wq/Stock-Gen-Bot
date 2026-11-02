@@ -4,7 +4,7 @@ const config = {
   prefix: '!',
   embedColor: 0x5865f2,
   footer: 'Developed by Zwo0',
-  activity: 'Bozo',
+  activity: 'nth brody just generating alts to my members✌️',
   ownerIds: ['1092773378101882951'],
   dmResults: true,
   deleteCommandMessages: false,
